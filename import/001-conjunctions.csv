@@ -1,0 +1,34 @@
+#separator:Semicolon
+#html:true
+#tags:conjunction союз
+und;и, а;Peter liest ein Buch <b>und</b> Anna hört Musik.;сочинительный<br />не влияет на порядок слов
+aber;но, однако;Ich wollte gerade die Nachrichten hören, <b>aber</b> das Telefon klingelte.;сочинительный<br />не влияет на порядок слов
+denn;так как, потому что;Ich bleibe heute zu Hause, <b>denn</b> ich bin müde.;сочинительный<br />не влияет на порядок слов
+oder;или, либо;Wir können ins Kino gehen <b>oder</b> wir bleiben zu Hause.;сочинительный<br />не влияет на порядок слов
+sondern;но, а;Sie fährt nicht mit dem Bus, sondern mit dem Fahrrad.;сочинительный<br />не влияет на порядок слов, стоит после предложения с отлицанием
+sowie;а также, как и;Die Studenten lernen neue Vokabeln, sowie sie üben die Grammatik.;сочинительный<br />не влияет на порядок слов
+deshalb;потому;Sie war krank, deshalb konnte sie nicht zur Arbeit kommen.;сочинительный<br />влияет на порядок слов
+deswegen;по этой причине;Ich hatte viel zu tun, deswegen bin ich erst spät ins Bett gegangen.;сочинительный<br />влияет на порядок слов
+darum;поэтому;Er hatte keine Fahrkarte, darum musste er Strafe zahlen.;сочинительный<br />влияет на порядок слов
+außerdem;кроме того;Ich habe Kopfschmerzen, außerdem bin ich sehr müde.;сочинительный<br />влияет на порядок слов
+trotzdem;несмотря на это;Es hat geregnet, trotzdem sind wir spazieren gegangen.;сочинительный<br />влияет на порядок слов
+zwar;правда, хотя
+doch;однако, все же;Er war sehr müde, doch er arbeitete bis spät in die Nacht.;сочинительный<br />допускает колебание
+jedoch;однако, тем не менее;Die Wohnung war klein, jedoch sehr gemütlich.;сочинительный<br />допускает колебание
+also;итак, так что, стало быть;Es ist schon spät, also sollten wir jetzt gehen.;сочинительный<br />допускает колебание
+
+als;чем, как, когда, в то время как;Als ich ein Kind war, spielte ich oft im Garten.<br>Ich ging oft ins Museum, als ich in Berlin wohnte.;подчинительный<br />в части с союзом перенос спрягаемого глагола на последнее место
+bevor;прежде чем;Bevor ich meine Hausaufgaben mache, esse ich zu Abend.<br>Ich esse zu Abend, bevor ich meine Hausaufgaben mache.;подчинительный<br />в части с союзом перенос спрягаемого глагола на последнее место
+bis;пока, до тех пор пока;Bis der Bus kommt, warten wir an der Haltestelle.<br>Wir warten an der Haltestelle, bis der Bus kommt.;подчинительный<br />в части с союзом перенос спрягаемого глагола на последнее место
+da;потому что, поскольку;Da es regnet, bleiben wir heute zu Hause.<br>Wir bleiben heute zu Hause, da es regnet.;подчинительный<br />в части с союзом перенос спрягаемого глагола на последнее место
+dass;что;Dass er die Prüfung bestanden hat, freut mich sehr.<br>Ich glaube, dass das eine gute Idee ist.;подчинительный<br />в части с союзом перенос спрягаемого глагола на последнее место
+indem;что, тем, тем что;Indem du fleißig lernst, erreichst du deine Ziele.<br>Man lernt eine Sprache gut, indem man viel spricht.;подчинительный<br />в части с союзом перенос спрягаемого глагола на последнее место
+insoweit;постольку, настолько;Insoweit er die Regeln kennt, kann er mitspielen.<br>Das Ergebnis ist gut, insoweit alle Erwartungen erfüllt wurden.;подчинительный<br />в части с союзом перенос спрягаемого глагола на последнее место
+nachdem;после того как, после;Nachdem er gegessen hatte, ging er spazieren.<br>Wir sind ins Kino gegangen, nachdem wir unsere Arbeit beendet hatten.;подчинительный<br />в части с союзом перенос спрягаемого глагола на последнее место
+ob;ли, ль, хоть;Ob er kommt, ist noch nicht klar.<br>Sie fragt, ob wir heute Abend Zeit haben.;подчинительный<br />в части с союзом перенос спрягаемого глагола на последнее место
+obwohl;хотя, несмотря на то что;Obwohl es regnete, sind wir spazieren gegangen.<br>Sie hat die Prüfung bestanden, obwohl sie nicht viel gelernt hatte.;подчинительный<br />в части с союзом перенос спрягаемого глагола на последнее место
+sobald;как только;Sobald er ankommt, rufen wir dich an.<br>Wir gehen spazieren, sobald der Regen aufhört.;подчинительный<br />в части с союзом перенос спрягаемого глагола на последнее место
+solange;тем временем, пока;Solange die Sonne scheint, bleiben wir im Garten.<br>Du kannst fernsehen, solange du deine Hausaufgaben machst.;подчинительный<br />в части с союзом перенос спрягаемого глагола на последнее место
+wann;когда;Wann der Zug ankommt, ist noch nicht bekannt.<br>Er fragt immer, wann wir nach Hause gehen.;подчинительный<br />в части с союзом перенос спрягаемого глагола на последнее место
+wenn;когда, если;Wenn ich Zeit habe, lese ich ein Buch.<br>Wenn es morgen regnet, bleiben wir zu Hause.;подчинительный<br />в части с союзом перенос спрягаемого глагола на последнее место
+weil;так как, потому что, поскольку;Weil ich Durst habe, trinke ich Wasser.<br>Ich bleibe heute zu Hause, weil ich krank bin.;подчинительный<br />в части с союзом перенос спрягаемого глагола на последнее место
