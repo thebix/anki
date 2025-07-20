@@ -1,0 +1,32 @@
+#separator:Semicolon
+#html:true
+#tags:verb verb_p1
+#columns:Front;Form2;Form3;Back;Example
+sein;war;gewesen;быть;<i>Ich möchte morgen früh im Büro <b>sein</b>.</i>
+haben;hatte;;иметь;<i>Wir müssen viel Geduld <b>haben</b>.</i>
+werden;wurde;geworden;становиться;<i>Er möchte Arzt <b>werden</b>.</i>
+müssen;musste;;быть должным;<i>Du <b>musst</b> deine Hausaufgaben machen.</i>
+können;konnte;;мочь;<i>Wir <b>können</b> dir helfen.</i>
+sollen;sollte;;быть должным;<i>Sie <b>soll</b> ihn anrufen.</i>
+wollen;wollte;;хотеть;<i>Ich <b>will</b> Deutsch lernen.</i>
+dürfen;durfte;;мочь;<i>Hier <b>dürfen</b> Sie nicht rauchen.</i>
+mögen;mochte;;хотеть, любить;<i>Ich <b>mag</b> Schokolade.</i>
+gehen;ging;gegangen;идти;<i>Wir wollen heute spazieren <b>gehen</b>.</i>
+kommen;kam;gekommen;приходить;<i>Er wird bald nach Hause <b>kommen</b>.</i>
+sprechen (spricht);sprach;gesprochen;говорить;<i>Kannst du Deutsch <b>sprechen</b>?</i>
+geben (gibt);gab;gegeben;дать;<i>Er kann dir das Buch <b>geben</b>.</i>
+sehen (sieht);sah;gesehen;видеть;<i>Ich möchte den Film <b>sehen</b>.</i>
+finden;fand;gefunden;найти;<i>Es ist schwer, einen guten Job zu <b>finden</b>.</i>
+bleiben;blieb;geblieben;оставаться;<i>Wir müssen zu Hause <b>bleiben</b>.</i>
+liegen;lag;gelegen;лежать;<i>Das Buch soll auf dem Tisch <b>liegen</b>.</i>
+sitzen;saß;gesessen;сидеть;<i>Sie kann lange im Café <b>sitzen</b>.</i>
+stehen;stand;gestanden;стоять;<i>Das Auto wird vor dem Haus <b>stehen</b>.</i>
+schreiben;schrieb;geschrieben;писать;<i>Ich muss eine E-Mail <b>schreiben</b>.</i>
+lesen (liest);las;gelesen;читать;<i>Sie will jeden Abend ein Buch <b>lesen</b>.</i>
+essen (isst);aß;gegessen;есть, кушать;<i>Was möchtest du heute <b>essen</b>?</i>
+fahren (fährt);fuhr;gefahren;ехать;<i>Wir müssen mit dem Zug <b>fahren</b>.</i>
+helfen (hilft);half;geholfen;помогать;<i>Kannst du mir bitte <b>helfen</b>?</i>
+trinken;trank;getrunken;пить;<i>Möchtest du etwas <b>trinken</b>?</i>
+beginnen;begann;begonnen;начинать;<i>Der Kurs wird bald <b>beginnen</b>.</i>
+wissen (weiß);wusste;gewusst;знать;<i>Ich möchte <b>wissen</b>, wann der Zug fährt.</i>
+nehmen (nimmt);nahm;genommen;брать;<i>Er will den Bus <b>nehmen</b>.</i>
