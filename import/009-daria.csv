@@ -1,37 +1,54 @@
+#Слова с занятий с Дашей, которые она будет проверять
 #separator:Semicolon
 #html:true
 #tags:daria даша
-Front;Back;Example;Notes;
-teilnehmen an + Dat;принимать участие;<i>Ich möchte am Kurs <b>teilnehmen</b>.</i>;отделяемая приставка <b>teil<b>
-das Geschäft;магазин, бизнес;<i>Ich gehe in <b>das Geschäft</b>, um Brot zu kaufen.</i>;
-froh;рад;<i>Ich bin sehr <b>froh</b>, dich zu sehen.</i>;
-denken an + Akk;думать о чем-то/ком-то;<i>Ich <b>denke an</b> dich.</i>;
-die Stelle;место работы;<i>Er hat eine neue <b>Stelle</b> gefunden.</i>;
-die Entwicklung;развитие;<i>Die technische <b>Entwicklung</b> ist sehr schnell.</i>;
-erkennen;признавать;<i>Ich konnte ihn sofort <b>erkennen</b>.</i>;
-die Stadt;город;<i>Berlin ist eine große <b>Stadt</b>.</i>;
-die Staat;государство;<i>Der <b>Staat</b> hilft den Bürgern.</i>;
-das Gedicht;стихотворение;<i>Sie liest gern <b>Gedichte</b>.</i>;
-die Kindheit;детство;<i>Meine <b>Kindheit</b> war sehr schön.</i>;
-anrufen + Akk;звонить кому-то;<i>Ich muss meinen Freund <b>anrufen</b>.</i>;
-die Hilfe;помощь;<i>Vielen Dank für deine <b>Hilfe</b>.</i>;
-vorbereiten;подготавливать;<i>Ich muss das Essen <b>vorbereiten</b>.</i>;
-mieten;брать в аренду;<i>Wir wollen ein Auto <b>mieten</b>.</i>;
-der Weg;путь;<i>Der <b>Weg</b> zum Bahnhof ist nicht weit.</i>;
-teilen;делить;<i>Wir können uns das Essen <b>teilen</b>.</i>;
-übernachten;переночевать;<i>Wir werden im Hotel <b>übernachten</b>.</i>;
-führen;вести (за собой);<i>Der Lehrer kann die Gruppe <b>führen</b>.</i>;
-wöhlen;выбирать;<i>Welches Buch willst du <b>wählen</b>?</i>;
-der Bekannte;знакомый;<i>Ich habe einen neuen <b>Bekannten</b>.</i>;
-kennenlernen + Akk;знакомиться с кем-то;<i>Ich möchte dich gern <b>kennenlernen</b>.</i>;
-die Wissenschaft;наука;<i><b>Wissenschaft</b> ist sehr wichtig für die Zukunft.</i>;
-halten;держать;<i>Kannst du das bitte kurz <b>halten</b>?</i>;
-das Gleichgewicht;баланс;<i>Er hat das <b>Gleichgewicht</b> verloren.</i>;
-teilweise;частично;<i>Das Ergebnis ist nur <b>teilweise</b> korrekt.</i>;
-sich erholen;отдыхать;<i>Ich möchte mich im Urlaub <b>erholen</b>.</i>;
-die Wirtschaft;экономика;<i>Die <b>Wirtschaft</b> wächst langsam.</i>;
-betragen;сопоставлять;<i>Die Kosten <b>betragen</b> 100 Euro.</i>;
-bestehen aus + Dat;состоять из чего-либо;<i>Das Team <b>besteht aus</b> fünf Personen.</i>;
-unterschiedlich;разнообразный;<i>Die Meinungen sind sehr <b>unterschiedlich</b>.</i>;
-achten auf + Akk;обращать внимание на что-то;<i>Bitte <b>achten Sie auf</b> den Verkehr.</i>;
-wegwerfen;выбрасывать;<i>Du sollst den Müll nicht einfach <b>wegwerfen</b>.</i>;отделяемая приставка <b>teil<b>
+#columns:Front;Back;Example;Notes;Synonym
+Die Milch;молоко;;;;
+der Husten;кашель;;;;
+teilnehmen an + Dat;принимать участие;<i>Ich möchte am Kurs <b>teilnehmen</b>.</i>;отделяемая приставка <b>teil<b>;;
+das Geschäft;магазин, бизнес;<i>Ich gehe in <b>das Geschäft</b>, um Brot zu kaufen.</i>;;;
+froh;рад;<i>Ich bin sehr <b>froh</b>, dich zu sehen.</i>;;;
+denken an + Akk;думать о чем-то/ком-то;<i>Ich <b>denke an</b> dich.</i>;;;
+die Stelle;место работы;<i>Er hat eine neue <b>Stelle</b> gefunden.</i>;;;
+die Entwicklung;развитие;<i>Die technische <b>Entwicklung</b> ist sehr schnell.</i>;;;
+erkennen;признавать;<i>Ich konnte ihn sofort <b>erkennen</b>.</i>;;;
+die Stadt;город;<i>Berlin ist eine große <b>Stadt</b>.</i>;;;
+die Staat;государство;<i>Der <b>Staat</b> hilft den Bürgern.</i>;;;
+das Gedicht;стихотворение;<i>Sie liest gern <b>Gedichte</b>.</i>;;;
+die Kindheit;детство;<i>Meine <b>Kindheit</b> war sehr schön.</i>;;;
+anrufen + Akk;звонить кому-то;<i>Ich muss meinen Freund <b>anrufen</b>.</i>;;;
+die Hilfe;помощь;<i>Vielen Dank für deine <b>Hilfe</b>.</i>;;;
+vorbereiten;подготавливать;<i>Ich muss mich auf die Prüfung <b>vorbereiten</b>.</i>;;;
+mieten;брать в аренду;<i>Wir wollen ein Auto <b>mieten</b>.</i>;;;
+der Weg;путь;<i>Der <b>Weg</b> zum Bahnhof ist nicht weit.</i>;;;
+teilen;делить;<i>Wir können uns das Essen <b>teilen</b>.</i>;;;
+übernachten;переночевать;<i>Wir werden im Hotel <b>übernachten</b>.</i>;;;
+führen;вести (за собой);<i>Der Lehrer kann die Gruppe <b>führen</b>.</i>;;;
+wöhlen;выбирать;<i>Welches Buch willst du <b>wählen</b>?</i>;;;
+der Bekannte;знакомый;<i>Ich habe einen neuen <b>Bekannten</b>.</i>;;;
+kennenlernen + Akk;знакомиться с кем-то;<i>Ich möchte dich gern <b>kennenlernen</b>.</i>;;;
+die Wissenschaft;наука;<i><b>Wissenschaft</b> ist sehr wichtig für die Zukunft.</i>;;;
+halten;держать;<i>Kannst du das bitte kurz <b>halten</b>?</i>;;;
+das Gleichgewicht;баланс;<i>Er hat das <b>Gleichgewicht</b> verloren.</i>;;;
+teilweise;частично;<i>Das Ergebnis ist nur <b>teilweise</b> korrekt.</i>;;;
+sich erholen;отдыхать;<i>Ich möchte mich im Urlaub <b>erholen</b>.</i>;;;
+die Wirtschaft;экономика;<i>Die <b>Wirtschaft</b> wächst langsam.</i>;;;
+betragen;сопоставлять;<i>Die Kosten <b>betragen</b> 100 Euro.</i>;;;
+bestehen aus + Dat;состоять из чего-либо;<i>Das Team <b>besteht aus</b> fünf Personen.</i>;;;
+unterschiedlich;разнообразный;<i>Die Meinungen sind sehr <b>unterschiedlich</b>.</i>;;;
+achten auf + Akk;обращать внимание на что-то;<i>Bitte <b>achten Sie auf</b> den Verkehr.</i>;;;
+wegwerfen;выбрасывать;<i>Du sollst den Müll nicht einfach <b>wegwerfen</b>.</i>;отделяемая приставка <b>teil<b>;;
+
+fühlen sich;чувствовать себя;<i>Nach einem langen Arbeitstag <b>fühle ich mich</b> müde.</i>;;;
+schwach;слабый;<i>Er ist nach der Krankheit noch <b>schwach</b>.</i>;;;
+erholen sich;отдыхать;<i>Wir <b>erholen uns</b> am Wochenende am Meer.</i>;;;
+sich entscheiden;решаться (по отношению к себе);<i>Ich muss <b>mich entscheiden</b>, ob ich nach Berlin fahre oder nicht.</i>;;;
+die Entscheidung treffen;принимать решение;<i>Wir müssen bald <b>eine Entscheidung treffen</b>.</i>;;;
+die Vergangenheit;прошлое;<i>Wir sprechen oft über <b>die Vergangenheit</b>.</i>;;;
+die Gegenwart;настоящее;<i>Manchmal ist es wichtig, im Moment, in <b>der Gegenwart</b>, zu leben.</i>;;;
+die Zukunft;будущее;<i>Was denkst du über <b>die Zukunft</b>?</i>;;;
+die Prüfung;экзамен;<i>Morgen habe ich eine schwierige <b>Prüfung</b>.</i>;;;
+prüfen;проверять;<i>Der Lehrer wird meine Hausaufgaben <b>prüfen</b>.</i>;;;
+übermorgen;послезавтра;<i>Ich fliege <b>übermorgen</b> nach Hause.</i>;;;
+vorgestern;позавчера;<i>Wir haben uns <b>vorgestern</b> im Café getroffen.</i>;;;
+mühegeben;прикладывать усилия;;;;
