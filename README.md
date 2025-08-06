@@ -1,6 +1,7 @@
 # Anki Flashcards
 
 - [History](./HISTORY.md)
+- [ai/Prompts](./ai/PROMPTS.md)
 
 ## Соглашения
 
