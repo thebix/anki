@@ -1,7 +1,8 @@
+#Указательные местоимения
 #separator:Semicolon
 #html:true
 #tags:pronoun местоимение
-#columns:Front;Back;Example;
+#columns:Front;Back;Example
 dieser, dieses, diese, diese;этот, это, эта, эти;<i>Ich mag <b>diesen</b> Film.</i>
 solcher, solches, solche, solche;такой, такое, такая, такие;<i>Ich habe noch nie <b>solches</b> Wetter erlebt.</i>
 mancher, macnches, manche, manche;некоторый, некоторое, некоторая, некоторые;<i><b>Manche</b> Leute verstehen das nicht.</i>

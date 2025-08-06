@@ -1,3 +1,4 @@
+#Союзы
 #separator:Semicolon
 #html:true
 #tags:conjunction союз
@@ -5,14 +6,14 @@ und;и, а;Peter liest ein Buch <b>und</b> Anna hört Musik.;сочинител�
 aber;но, однако;Ich wollte gerade die Nachrichten hören, <b>aber</b> das Telefon klingelte.;сочинительный<br />не влияет на порядок слов
 denn;так как, потому что;Ich bleibe heute zu Hause, <b>denn</b> ich bin müde.;сочинительный<br />не влияет на порядок слов
 oder;или, либо;Wir können ins Kino gehen <b>oder</b> wir bleiben zu Hause.;сочинительный<br />не влияет на порядок слов
-sondern;но, а;Sie fährt nicht mit dem Bus, sondern mit dem Fahrrad.;сочинительный<br />не влияет на порядок слов, стоит после предложения с отлицанием
+sondern;но, а;Sie fährt nicht mit dem Bus, sondern mit dem Fahrrad.;сочинительный<br />не влияет на порядок слов, стоит после предложения с отрицанием
 sowie;а также, как и;Die Studenten lernen neue Vokabeln, sowie sie üben die Grammatik.;сочинительный<br />не влияет на порядок слов
 deshalb;потому;Sie war krank, deshalb konnte sie nicht zur Arbeit kommen.;сочинительный<br />влияет на порядок слов
 deswegen;по этой причине;Ich hatte viel zu tun, deswegen bin ich erst spät ins Bett gegangen.;сочинительный<br />влияет на порядок слов
 darum;поэтому;Er hatte keine Fahrkarte, darum musste er Strafe zahlen.;сочинительный<br />влияет на порядок слов
 außerdem;кроме того;Ich habe Kopfschmerzen, außerdem bin ich sehr müde.;сочинительный<br />влияет на порядок слов
 trotzdem;несмотря на это;Es hat geregnet, trotzdem sind wir spazieren gegangen.;сочинительный<br />влияет на порядок слов
-zwar;правда, хотя
+zwar;правда, хотя;<i><b>Zwar</b> hat er viel Geld, aber er ist nicht glücklich.</i><br /><i>Er hat <b>zwar</b> viel Geld, aber er ist nicht glücklich.</i>;сочинительный<br />влияет на порядок слов
 doch;однако, все же;Er war sehr müde, doch er arbeitete bis spät in die Nacht.;сочинительный<br />допускает колебание
 jedoch;однако, тем не менее;Die Wohnung war klein, jedoch sehr gemütlich.;сочинительный<br />допускает колебание
 also;итак, так что, стало быть;Es ist schon spät, also sollten wir jetzt gehen.;сочинительный<br />допускает колебание

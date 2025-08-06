@@ -1,10 +1,11 @@
+#Предлоги
 #separator:Semicolon
 #html:true
 #tags:preposition предлог
-#columns:Front;Back;Notes;Example;
+#columns:Front;Back;Notes;Example
 bis;до;akkuzativ;<i>Der Zug fährt <b>bis</b> Berlin.</i>
 durch;через;akkuzativ;<i>Wir gehen <b>durch</b> den Park.</i>
-entlang;через;akkuzativ<br />стоит после субъекта;<i>Gehen Sie die Straße <b>entlang</b>.</i>
+entlang;вдоль;akkuzativ<br />стоит после субъекта;<i>Gehen Sie die Straße <b>entlang</b>.</i>
 für;для, за;akkuzativ;<i>Das Geschenk ist <b>für</b> dich.</i>
 gegen;против;akkuzativ;<i>Ich bin <b>gegen</b> diese Idee.</i>
 ohne;без;akkuzativ<br />после него нет артикля и падежа;<i>Ich kann nicht <b>ohne</b> dich leben.</i>
