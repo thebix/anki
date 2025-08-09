@@ -1,9 +1,7 @@
-# Anki Flashcards
+# German Language
 
-- [History](./HISTORY.md)
-- [ai/Prompts](./ai/PROMPTS.md)
+## 
 
-## Соглашения
-
-- Reword карточки: если добавил файл в Anki, а файле реворда пишу вверху: `# Added to Anki`
-- `debug` папка: тут кладу файлы с экспериментами
+- [App](./app/APP.md) - приложения для изучения
+- [Grammar](./grammar/) - TODO: конспекты по грамматике
+- [Resource](./resource/RESOURCE.md) - различные ресурсы, артефакты
