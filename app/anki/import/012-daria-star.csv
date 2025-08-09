@@ -2,19 +2,41 @@
 #separator:Semicolon
 #html:true
 #tags:daria даша
-#columns:Front;Back;Example;Notes;Synonym
-weshalb;зачем;;;;
-wertvoll;ценный;<i>Das Museum stellt viele <b>wertvolle</b> Gemälde aus.</i>;;
-eigentlich;наконец;<i>Was wolltest du <b>eigentlich</b> sagen?</i>;;;
-klappen;получаться;<i>Ich hoffe, dass alles <b>klappt</b>.</i>;;;
-anstrengend;утомительный, напряженный;<i>Der Job ist sehr <b>anstrengend</b>.</i>;;;
-innerhalb;внутри;<i>Sie müssen <b>innerhalb</b> von 10 Minuten hier sein.</i>;;;
-die Ablehnung;отказ;<i>Ich habe eine <b>Ablehnung</b> für meinen Antrag bekommen.</i>;;;
-die Herstellung;производство;<i><b>Die Herstellung</b> von Autos ist sehr komplex.</i>;;;
-herstellen;производить;<i>Dieses Unternehmen kann Tische und Stühle <b>herstellen</b>.</i>;;;
-schaffen;создавать;<i>Ich <b>schaffe</b> es, die Arbeit bis Freitag zu beenden.</i>;;;
-das Gerät;прибор;<i>Mein neues <b>Gerät</b> funktioniert sehr gut.</i>;;;
-Schluss;окончание;<i>Ich bin müde, machen wir <b>Schluss</b>.</i>;;;
-Schluss machen;заканчивать;<i>Ich habe <b>mit ihm Schluss gemacht</b>.</i>;;beenden;
-entwickeln;развивать, разрабатывать;<i>Das Unternehmen möchte neue Produkte <b>entwickeln</b>.</i>;;;
-echt;реально, правдиво;<i>Das ist <b>echt</b> eine gute Idee!</i>;;;
+#columns:Front;Back;Example;EampleTranslation;Notes;Synonym
+weshalb;зачем;<i>Ich verstehe nicht, <b>weshalb</b> er das getan hat.</i>;<i>Я не понимаю, <b>зачем</b> он это сделал.</i>;;;
+wertvoll;ценный;<i>Das Museum stellt viele <b>wertvolle</b> Gemälde aus.</i>;<i>Музей выставляет много <b>ценных</b> картин.</i>;;;
+eigentlich;наконец;<i>Was wolltest du <b>eigentlich</b> sagen?</i>;<i>Что ты <b>вообще-то</b> хотел сказать?</i>;;;
+klappen;получаться;<i>Ich hoffe, dass alles <b>klappt</b>.</i>;<i>Я надеюсь, что все <b>получится</b>.</i>;;;
+anstrengend;утомительный, напряженный;<i>Der Job ist sehr <b>anstrengend</b>.</i>;<i>Эта работа очень <b>утомительная</b>.</i>;;;
+innerhalb;внутри;<i>Sie müssen <b>innerhalb</b> von 10 Minuten hier sein.</i>;<i>Вы должны быть здесь <b>в течение</b> 10 минут.</i>;;;
+die Ablehnung;отказ;<i>Ich habe eine <b>Ablehnung</b> für meinen Antrag bekommen.</i>;<i>Я получил <b>отказ</b> на мою заявку.</i>;;;
+die Herstellung;производство;<i><b>Die Herstellung</b> von Autos ist sehr komplex.</i>;<i><b>Производство</b> автомобилей очень сложное.</i>;;;
+herstellen;производить;<i>Dieses Unternehmen kann Tische und Stühle <b>herstellen</b>.</i>;<i>Эта компания может <b>производить</b> столы и стулья.</i>;;;
+schaffen;создавать;<i>Ich <b>schaffe</b> es, die Arbeit bis Freitag zu beenden.</i>;<i>Я <b>справлюсь</b> с работой до пятницы.</i>;;;
+das Gerät;прибор;<i>Mein neues <b>Gerät</b> funktioniert sehr gut.</i>;<i>Мой новый <b>прибор</b> работает очень хорошо.</i>;;;
+Schluss;окончание;<i>Ich bin müde, machen wir <b>Schluss</b>.</i>;<i>Я устал, давайте <b>заканчивать</b>.</i>;;;
+Schluss machen;заканчивать;<i>Ich habe <b>mit ihm Schluss gemacht</b>.</i>;<i>Я <b>с ним рассталась</b>.</i>;beenden;;
+entwickeln;развивать, разрабатывать;<i>Das Unternehmen möchte neue Produkte <b>entwickeln</b>.</i>;<i>Компания хочет <b>разрабатывать</b> новые продукты.</i>;;;
+echt;реально, правдиво;<i>Das ist <b>echt</b> eine gute Idee!</i>;<i>Это <b>действительно</b> хорошая идея!</i>;;;
+
+verbringen;проводить (время);<i>Wir <b>verbringen</b> den Urlaub in den Bergen.</i>;<i>Мы <b>проводим</b> отпуск в горах.</i>;;;
+vorbereiten <b>auf</b> + <i>Dat</i>;подготавливаться к чему-то;<i>Sie <b>bereitet</b> sich auf die Prüfung <b>vor</b>.</i>;<i>Она <b>готовится к</b> экзамену.</i></i>;;;
+aussagen;высказывать;<i>Ich kann nichts Konkretes darüber <b>aussagen</b>.</i><br /><i>Der Zeuge <b>sagt</b> vor Gericht <b>aus</b>.</i>;<i>Я не могу ничего конкретного об этом <b>высказать</b>.</i><br /><i>Свидетель <b>дает показания</b> в суде.</i>;;;
+sich entscheiden;решаться (по отношению к себе);<i>Ich muss <b>mich entscheiden</b>, ob ich nach Berlin fahre oder nicht.</i><br /><i>Er kann <b>sich</b> nicht <b>entscheiden</b>, was er essen soll.</i>;<i>Я должен <b>решиться</b>, поеду я в Берлин или нет.</i><br /><i>Он не может <b>решиться</b>, что ему съесть.</i>;;;
+teilen;делить;<i>Wir <b>teilen</b> die Pizza in vier Stücke.</i>;<i>Мы <b>делим</b> пиццу на четыре части.</i>;;;
+mitteilen;поделиться (информацией);<i>Er hat mir eine wichtige Information <b>mitgeteilt</b>.</i>;<i>Он <b>сообщил</b> мне важную информацию.</i>;;;
+bügelt;гладить;<i>Mein Vater <b>bügelt</b> immer seine Hemden selbst.</i>;<i>Мой отец всегда сам <b>гладит</b> свои рубашки.</i>;;;
+gießen;поливать;<i>Vergiss nicht, die Blumen zu <b>gießen</b>.</i>;<i>Не забудь <b>поливать</b> цветы.</i>;;;
+aufhellen;развеселить;<i>Die Sonne <b>hellt</b> den Himmel <b>auf</b>.</i>;<i>Солнце <b>осветляет</b> небо.</i>;;;
+berufstätig;трудоустроенный;<i>Meine Mutter ist <b>berufstätig</b>.</i>;<i>Моя мама <b>работает</b> (трудоустроенная).</i>;;;
+aussehen;выглядеть;<i>Du <b>siehst</b> heute gut <b>aus</b>.</i>;<i>Ты сегодня хорошо <b>выглядишь</b>.</i>;;;
+abhängen <b>von</b> + <i>Dat</i>;зависеть от чего-то;<i>Der Erfolg <b>hängt von</b> dir <b>ab</b>.</i>;<i>Успех <b>зависит от</b> тебя.</i>;;;
+faul;ленивый;<i>Er ist so <b>faul</b>, dass er heute nicht aufgestanden ist.</i>;<i>Он такой <b>ленивый</b>, что сегодня не встал.</i>;;;
+ab und zu;время от времени;<i>Ich treffe <b>ab und zu</b> Freunde.</i>;<i>Я <b>время от времени</b> встречаюсь с друзьями.</i>;;;
+sich kümmern <b>um</b> + <i>Akk</i>;заботиться о чем-то (ухаживать);<i>Ich <b>kümmere mich um</b> meine Katze.</i>;<i>Я <b>забочусь о</b> моей кошке.</i>;;;
+aufpassen;приглядывать (следить);Kannst du bitte auf meine Kinder <b>aufpassen</b>?;Можешь, пожалуйста, <b>приглядеть</b> за моими детьми?;;;
+sorgen <b>für</b> + <i>Akk</i>;заботиться о чем-то (переживать за);Wer <b>sorgt</b> für die Kinder?;Кто <b>заботится</b> о детях?;;;
+pflegen;ухаживать;Sie muss ihre kranke Mutter <b>pflegen</b>.;Она должна <b>ухаживать</b> за своей больной матерью.;;;
+die Einladung;приглашение;Wir haben eine <b>Einladung</b> zur Hochzeit bekommen.;Мы получили <b>приглашение</b> на свадьбу.;;;
+kennenlernen + <i>Akk</i>;знакомиться с кем-то;Ich möchte deine Familie <b>kennenlernen</b>.;Я хочу <b>познакомиться</b> с твоей семьей.;;;
+es gibt;есть, имеется;In der Stadt <b>gibt es</b> viele Museen.;В городе <b>имеется</b> много музеев.;;;
