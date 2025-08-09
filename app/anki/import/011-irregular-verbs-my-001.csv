@@ -2,5 +2,6 @@
 #separator:Semicolon
 #html:true
 #tags:verb verb_my ver_irregular
-#columns:Front;Form2;Form3;Back;Example
-verbinden;verband;verbunden;соединять, связывать;<i>Ich <b>verbinde</b> niemanden.</i>
+#notetype:German
+#columns:Front;Form2;Form3;Back;Example;EampleTranslation;
+verbinden;verband;verbunden;соединять, связывать;<i>Ich <b>verbinde</b> niemanden.</i>;<i>Я никого не <b>соединяю</b>.</i>;

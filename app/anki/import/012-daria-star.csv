@@ -2,6 +2,7 @@
 #separator:Semicolon
 #html:true
 #tags:daria даша
+#notetype:German
 #columns:Front;Back;Example;EampleTranslation;Notes;Synonym
 weshalb;зачем;<i>Ich verstehe nicht, <b>weshalb</b> er das getan hat.</i>;<i>Я не понимаю, <b>зачем</b> он это сделал.</i>;;;
 wertvoll;ценный;<i>Das Museum stellt viele <b>wertvolle</b> Gemälde aus.</i>;<i>Музей выставляет много <b>ценных</b> картин.</i>;;;

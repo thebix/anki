@@ -2,32 +2,33 @@
 #separator:Semicolon
 #html:true
 #tags:verb verb_p2
-#columns:Front;Form2;Form3;Back;Example
-verlieren;verlor;verloren;терять, проигрывать;<i>Ich will mein Handy nicht <b>verlieren</b>.</i>
-gelingen;gelang;gelungen;удаваться;<i>Es wird uns sicher <b>gelingen</b>.</i>
-greifen;griff;gegriffen;хватать, браться;<i>Er kann nicht nach dem Buch <b>greifen</b>.</i>
-verzeihen;verzieh;verziehen;прощать;<i>Bitte, können Sie mir <b>verzeihen</b>?</i>
-genießen;genoss;genossen;наслаждаться;<i>Wir wollen das Wochenende <b>genießen</b>.</i>
-gießen;goss;gegossen;лить;<i>Kannst du bitte die Blumen <b>gießen</b>?</i>
-schießen;schoss;geschossen;стрелять;<i>Der Jäger wollte auf das Wild <b>schießen</b>.</i>
-zwingen;zwang;gezwungen;принуждать, заставлять;<i>Niemand kann mich dazu <b>zwingen</b>.</i>
-dringen;drang;gedrungen;настаивать, требовать;<i>Er musste auf die Tür <b>dringen</b>.</i>
-klingen;klang;geklungen;звучать;<i>Das Lied soll sehr schön <b>klingen</b>.</i>
-werfen (wirft);warf;geworfen;бросать;<i>Du sollst den Ball zu mir <b>werfen</b>.</i>
-graben (gräbt);grub;gegraben;копать;<i>Wir müssen ein Loch <b>graben</b>.</i>
-wachsen (wächst);wuchs;gewachsen;расти, увеличиваться;<i>Die Pflanzen werden schnell <b>wachsen</b>.</i>
-biegen;bog;gebogen;гнуть, изгибать;<i>Man kann das Metall leicht <b>biegen</b>.</i>
-frieren;fror;gefroren;мерзнуть;<i>Ich möchte nicht <b>frieren</b>.</i>
-kriechen;kroch;gekrochen;ползать, ползти;<i>Das Kind kann schon <b>kriechen</b>.</i>
-schlafen (schläft);schlief;geschlafen;спать;<i>Ich möchte acht Stunden <b>schlafen</b>.</i>
-treffen (trifft);traf;getroffen;встречать (ся);<i>Wir werden uns morgen <b>treffen</b>.</i>
-ziehen;zog;gezogen;тянуть;<i>Er muss den schweren Koffer <b>ziehen</b>.</i>
-kennen;kannte;gekannt;знать;<i>Ich möchte diese Stadt besser <b>kennen</b>.</i>
-rufen;rief;gerufen;кричать, звать;<i>Er wird seinen Namen <b>rufen</b>.</i>
-schließen;schloss;geschlossen;закрывать;<i>Bitte, kannst du die Tür <b>schließen</b>?</i>
-bieten;bot;geboten;предлагать;<i>Wir können Ihnen ein gutes Angebot <b>bieten</b>.</i>
-bringen;brachte;gebracht;приносить;<i>Kannst du mir bitte das Buch <b>bringen</b>?</i>
-denken;dachte;gedacht;думать;<i>Ich muss darüber <b>denken</b>.</i>
-halten (hält);hielt;gehalten;держать;<i>Er kann das nicht <b>halten</b>.</i>
-lassen (lässt);ließ;gelassen;оставлять;<i>Du sollst ihn in Ruhe <b>lassen</b>.</i>
-laufen (läuft);lief;gelaufen;бежать;<i>Ich will jeden Morgen <b>laufen</b>.</i>
+#notetype:German
+#columns:Front;Form2;Form3;Back;Example;EampleTranslation;
+verlieren;verlor;verloren;терять, проигрывать;<i>Ich will mein Handy nicht <b>verlieren</b>.</i>;<i>Я не хочу <b>потерять</b> мой телефон.</i>;
+gelingen;gelang;gelungen;удаваться;<i>Es wird uns sicher <b>gelingen</b>.</i>;<i>Это нам, конечно, <b>удастся</b>.</i>;
+greifen;griff;gegriffen;хватать, браться;<i>Er kann nicht nach dem Buch <b>greifen</b>.</i>;<i>Он не может <b>схватить</b> книгу.</i>;
+verzeihen;verzieh;verziehen;прощать;<i>Bitte, können Sie mir <b>verzeihen</b>?</i>;<i>Пожалуйста, вы можете меня <b>простить</b>?</i>;
+genießen;genoss;genossen;наслаждаться;<i>Wir wollen das Wochenende <b>genießen</b>.</i>;<i>Мы хотим <b>наслаждаться</b> выходными.</i>;
+gießen;goss;gegossen;лить;<i>Kannst du bitte die Blumen <b>gießen</b>?</i>;<i>Ты можешь, пожалуйста, <b>полить</b> цветы?</i>;
+schießen;schoss;geschossen;стрелять;<i>Der Jäger wollte auf das Wild <b>schießen</b>.</i>;<i>Охотник хотел <b>выстрелить</b> в дичь.</i>;
+zwingen;zwang;gezwungen;принуждать, заставлять;<i>Niemand kann mich dazu <b>zwingen</b>.</i>;<i>Никто не может меня <b>заставить</b> это сделать.</i>;
+dringen;drang;gedrungen;настаивать, требовать;<i>Er musste auf die Tür <b>dringen</b>.</i>;<i>Он должен был <b>настоять</b> на двери.</i>;
+klingen;klang;geklungen;звучать;<i>Das Lied soll sehr schön <b>klingen</b>.</i>;<i>Песня должна <b>звучать</b> очень красиво.</i>;
+werfen (wirft);warf;geworfen;бросать;<i>Du sollst den Ball zu mir <b>werfen</b>.</i>;<i>Ты должен <b>бросить</b> мяч мне.</i>;
+graben (gräbt);grub;gegraben;копать;<i>Wir müssen ein Loch <b>graben</b>.</i>;<i>Мы должны <b>выкопать</b> яму.</i>;
+wachsen (wächst);wuchs;gewachsen;расти, увеличиваться;<i>Die Pflanzen werden schnell <b>wachsen</b>.</i>;<i>Растения будут быстро <b>расти</b>.</i>;
+biegen;bog;gebogen;гнуть, изгибать;<i>Man kann das Metall leicht <b>biegen</b>.</i>;<i>Можно легко <b>гнуть</b> металл.</i>;
+frieren;fror;gefroren;мерзнуть;<i>Ich möchte nicht <b>frieren</b>.</i>;<i>Я не хочу <b>мерзнуть</b>.</i>;
+kriechen;kroch;gekrochen;ползать, ползти;<i>Das Kind kann schon <b>kriechen</b>.</i>;<i>Ребенок уже может <b>ползать</b>.</i>;
+schlafen (schläft);schlief;geschlafen;спать;<i>Ich möchte acht Stunden <b>schlafen</b>.</i>;<i>Я хочу <b>спать</b> восемь часов.</i>;
+treffen (trifft);traf;getroffen;встречать (ся);<i>Wir werden uns morgen <b>treffen</b>.</i>;<i>Мы <b>встретимся</b> завтра.</i>;
+ziehen;zog;gezogen;тянуть;<i>Er muss den schweren Koffer <b>ziehen</b>.</i>;<i>Он должен <b>тащить</b> тяжелый чемодан.</i>;
+kennen;kannte;gekannt;знать;<i>Ich möchte diese Stadt besser <b>kennen</b>.</i>;<i>Я хочу лучше <b>узнать</b> этот город.</i>;
+rufen;rief;gerufen;кричать, звать;<i>Er wird seinen Namen <b>rufen</b>.</i>;<i>Он будет <b>кричать</b> свое имя.</i>;
+schließen;schloss;geschlossen;закрывать;<i>Bitte, kannst du die Tür <b>schließen</b>?</i>;<i>Пожалуйста, ты можешь <b>закрыть</b> дверь?</i>;
+bieten;bot;geboten;предлагать;<i>Wir können Ihnen ein gutes Angebot <b>bieten</b>.</i>;<i>Мы можем <b>предложить</b> вам хорошее предложение.</i>;
+bringen;brachte;gebracht;приносить;<i>Kannst du mir bitte das Buch <b>bringen</b>?</i>;<i>Ты можешь, пожалуйста, <b>принести</b> мне книгу?</i>;
+denken;dachte;gedacht;думать;<i>Ich muss darüber <b>denken</b>.</i>;<i>Я должен об этом <b>подумать</b>.</i>;
+halten (hält);hielt;gehalten;держать;<i>Er kann das nicht <b>halten</b>.</i>;<i>Он не может это <b>держать</b>.</i>;
+lassen (lässt);ließ;gelassen;оставлять;<i>Du sollst ihn in Ruhe <b>lassen</b>.</i>;<i>Ты должен <b>оставить</b> его в покое.</i>;
+laufen (läuft);lief;gelaufen;бежать;<i>Ich will jeden Morgen <b>laufen</b>.</i>;<i>Я хочу <b>бегать</b> каждое утро.</i>;

@@ -2,9 +2,10 @@
 #separator:Semicolon
 #html:true
 #tags:pronoun местоимение
-#columns:Front;Back;Example
-dieser, dieses, diese, diese;этот, это, эта, эти;<i>Ich mag <b>diesen</b> Film.</i>
-solcher, solches, solche, solche;такой, такое, такая, такие;<i>Ich habe noch nie <b>solches</b> Wetter erlebt.</i>
-mancher, macnches, manche, manche;некоторый, некоторое, некоторая, некоторые;<i><b>Manche</b> Leute verstehen das nicht.</i>
-jener, jenes, jene, jene;тот, то, та, те;<i>Ich nehme <b>jenen</b> Apfel dort.</i>
-jeder, jedes, jede, jede;каждый, каждое, каждая, каждые;<i><b>Jeder</b> Mensch hat das Recht auf Freiheit.</i>
+#notetype:German
+#columns:Front;Back;Example;EampleTranslation
+dieser, dieses, diese, diese;этот, это, эта, эти;<i>Ich mag <b>diesen</b> Film.</i>;<i>Мне нравится <b>этот</b> фильм.</i>;
+solcher, solches, solche, solche;такой, такое, такая, такие;<i>Ich habe noch nie <b>solches</b> Wetter erlebt.</i>;<i>Я еще никогда не переживал <b>такой</b> погоды.</i>;
+mancher, macnches, manche, manche;некоторый, некоторое, некоторая, некоторые;<i><b>Manche</b> Leute verstehen das nicht.</i>;<i><b>Некоторые</b> люди этого не понимают.</i>;
+jener, jenes, jene, jene;тот, то, та, те;<i>Ich nehme <b>jenen</b> Apfel dort.</i>;<i>Я возьму <b>то</b> яблоко там.</i>;
+jeder, jedes, jede, jede;каждый, каждое, каждая, каждые;<i><b>Jeder</b> Mensch hat das Recht auf Freiheit.</i>;<i><b>Каждый</b> человек имеет право на свободу.</i>;

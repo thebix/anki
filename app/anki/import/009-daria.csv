@@ -2,13 +2,14 @@
 #separator:Semicolon
 #html:true
 #tags:daria даша
+#notetype:German
 #columns:Front;Back;Example;EampleTranslation;Notes;Synonym
 Die Milch;молоко;;;;
 der Husten;кашель;;;;
-teilnehmen an + Dat;принимать участие;<i>Ich möchte am Kurs <b>teilnehmen</b>.</i>;;отделяемая приставка <b>teil<b>;;
+teilnehmen <b>an</b> + <i>Dat</i>;принимать участие;<i>Ich möchte am Kurs <b>teilnehmen</b>.</i>;;отделяемая приставка <b>teil<b>;;
 das Geschäft;магазин, бизнес;<i>Ich gehe in <b>das Geschäft</b>, um Brot zu kaufen.</i>;;;;
 froh;рад;<i>Ich bin sehr <b>froh</b>, dich zu sehen.</i>;;;;
-denken an + Akk;думать о чем-то/ком-то;<i>Ich <b>denke an</b> dich.</i>;;;;
+denken <b>an</b> + <i>Akk</i>;думать о чем-то/ком-то;<i>Ich <b>denke an</b> dich.</i>;;;;
 die Stelle;место работы;<i>Er hat eine neue <b>Stelle</b> gefunden.</i>;;;;
 die Entwicklung;развитие;<i>Die technische <b>Entwicklung</b> ist sehr schnell.</i>;;;;
 erkennen;признавать;<i>Ich konnte ihn sofort <b>erkennen</b>.</i>;;;;
@@ -16,7 +17,7 @@ die Stadt;город;<i>Berlin ist eine große <b>Stadt</b>.</i>;;;;
 der Staat;государство;<i>Der <b>Staat</b> hilft den Bürgern.</i>;;;;
 das Gedicht;стихотворение;<i>Sie liest gern <b>Gedichte</b>.</i>;;;;
 die Kindheit;детство;<i>Meine <b>Kindheit</b> war sehr schön.</i>;;;;
-anrufen + Akk;звонить кому-то;<i>Ich muss meinen Freund <b>anrufen</b>.</i>;;;;
+anrufen + <i>Akk</i>;звонить кому-то;<i>Ich muss meinen Freund <b>anrufen</b>.</i>;;;;
 die Hilfe;помощь;<i>Vielen Dank für deine <b>Hilfe</b>.</i>;;;;
 vorbereiten;подготавливать;<i>Ich muss mich auf die Prüfung <b>vorbereiten</b>.</i>;;;;
 mieten;брать в аренду;<i>Wir wollen ein Auto <b>mieten</b>.</i>;;;;
@@ -32,9 +33,9 @@ teilweise;частично;<i>Das Ergebnis ist nur <b>teilweise</b> korrekt.</i>
 sich erholen;отдыхать;<i>Ich möchte mich im Urlaub <b>erholen</b>.</i>;;;;
 die Wirtschaft;экономика;<i>Die <b>Wirtschaft</b> wächst langsam.</i>;;;;
 betragen;сопоставлять;<i>Die Kosten <b>betragen</b> 100 Euro.</i>;;;;
-bestehen aus + Dat;состоять из чего-либо;<i>Das Team <b>besteht aus</b> fünf Personen.</i>;;;;
+bestehen <b>aus</b> + <i>Dat</i>;состоять из чего-либо;<i>Das Team <b>besteht aus</b> fünf Personen.</i>;;;;
 unterschiedlich;разнообразный;<i>Die Meinungen sind sehr <b>unterschiedlich</b>.</i>;;;;
-achten auf + Akk;обращать внимание на что-то;<i>Bitte <b>achten Sie auf</b> den Verkehr.</i>;;;;
+achten <b>auf</b> + <i>Akk</i>;обращать внимание на что-то;<i>Bitte <b>achten Sie auf</b> den Verkehr.</i>;;;;
 wegwerfen;выбрасывать;<i>Du sollst den Müll nicht einfach <b>wegwerfen</b>.</i>;;отделяемая приставка <b>teil<b>;;
 
 fühlen sich;чувствовать себя;<i>Nach einem langen Arbeitstag <b>fühle ich mich</b> müde.</i>;;;;

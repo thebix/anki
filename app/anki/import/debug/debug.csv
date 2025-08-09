@@ -1,6 +1,7 @@
 #separator:Semicolon
 #html:true
-#tags:debug_tag_1 debug_tag_2
+#notetype:German
+##tags:debug_tag_1 debug_tag_2
 #columns:Front;Back;Example
 der DebugWord_1;тестовое существительное 1;Тестовое <b>предложение</b> один<br />Тестовое предложение 2
 das Debug Word 2;тенстовое существительное 2

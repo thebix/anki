@@ -1,0 +1,42 @@
+#Предлоги
+#separator:Semicolon
+#html:true
+#tags:preposition предлог
+#notetype:German
+#columns:Front;Back;Notes;Example;EampleTranslation;Synonym
+bis;до;akkuzativ;<i>Der Zug fährt <b>bis</b> Berlin.</i>;<i>Поезд едет <b>до</b> Берлина.</i>;;
+durch;через;akkuzativ;<i>Wir gehen <b>durch</b> den Park.</i>;<i>Мы идем <b>через</b> парк.</i>;;
+entlang;вдоль;akkuzativ<br />стоит после субъекта;<i>Gehen Sie die Straße <b>entlang</b>.</i>;<i>Идите <b>вдоль</b> по улице.</i>;;
+für;для, за;akkuzativ;<i>Das Geschenk ist <b>für</b> dich.</i>;<i>Этот подарок <b>для</b> тебя.</i>;;
+gegen;против;akkuzativ;<i>Ich bin <b>gegen</b> diese Idee.</i>;<i>Я <b>против</b> этой идеи.</i>;;
+ohne;без;akkuzativ<br />после него нет артикля и падежа;<i>Ich kann nicht <b>ohne</b> dich leben.</i>;<i>Я не могу жить <b>без</b> тебя.</i>;;
+pro;на, с/за;akkuzativ;<i>Das kostet 5 Euro <b>pro</b> Stück.</i>;<i>Это стоит 5 евро <b>за</b> штуку.</i>;;
+um;вокруг, около;akkuzativ;<i>Der Bus fährt <b>um</b> den See.</i>;<i>Автобус едет <b>вокруг</b> озера.</i>;;
+an;у, на (верт);akkuzativ + dativ;<i>Ich warte <b>an</b> der Haltestelle.</i>;<i>Я жду <b>на</b> остановке.</i>;;
+auf;на (гор);akkuzativ + dativ;<i>Das Buch liegt <b>auf</b> dem Tisch.</i>;<i>Книга лежит <b>на</b> столе.</i>;;
+hinter;за;akkuzativ + dativ;<i>Die Katze sitzt <b>hinter</b> dem Sofa.</i>;<i>Кошка сидит <b>за</b> диваном.</i>;;
+in;в;akkuzativ + dativ;<i>Ich wohne <b>in</b> Deutschland.</i>;<i>Я живу <b>в</b> Германии.</i>;;
+neben;рядом;akkuzativ + dativ;<i>Das Auto steht <b>neben</b> dem Baum.</i>;<i>Машина стоит <b>рядом</b> с деревом.</i>;;
+über;над;akkuzativ + dativ<br />в значении "о" всегда akk;<i>Die Lampe hängt <b>über</b> dem Tisch.</i>;<i>Лампа висит <b>над</b> столом.</i>;;
+unter;под;akkuzativ + dativ;<i>Der Hund schläft <b>unter</b> dem Tisch.</i>;<i>Собака спит <b>под</b> столом.</i>;;
+vor;перед;akkuzativ + dativ;<i>Das Auto parkt <b>vor</b> dem Haus.</i>;<i>Машина припаркована <b>перед</b> домом.</i>;;
+zwischen;между;akkuzativ + dativ;<i>Der Stuhl steht <b>zwischen</b> dem Tisch und dem Sofa.</i>;<i>Стул стоит <b>между</b> столом и диваном.</i>;;
+ab;с, от;dativ;<i><b>Ab</b> morgen bin ich im Urlaub.</i>;<i><b>С</b> завтрашнего дня я в отпуске.</i>;;
+außer;кроме;dativ;<i>Alle <b>außer</b> mir waren da.</i>;<i>Все <b>кроме</b> меня были там.</i>;;
+aus;из;dativ;<i>Ich komme <b>aus</b> Deutschland.</i>;<i>Я <b>из</b> Германии.</i>;;
+bei;у;dativ;<i>Ich wohne <b>bei</b> meinen Eltern.</i>;<i>Я живу <b>у</b> своих родителей.</i>;;
+gegenüber;напротив;dativ<br />стоит после субъекта;<i>Der Supermarkt ist dem Bahnhof <b>gegenüber</b>.</i>;<i>Супермаркет находится <b>напротив</b> вокзала.</i>;;
+laut;согласно;dativ;<i><b>Laut</b> Wetterbericht regnet es heute.</i>;<i><b>Согласно</b> прогнозу погоды, сегодня идет дождь.</i>;;
+mit;с;dativ;<i>Ich fahre <b>mit</b> dem Bus.</i>;<i>Я еду <b>на</b> автобусе.</i>;;
+nach;в, на/по/после;dativ;<i>Ich fahre <b>nach</b> Hause.</i>;<i>Я еду <b>домой</b>.</i>;;
+seit;с (времени);dativ;<i>Ich lerne Deutsch <b>seit</b> zwei Jahren.</i>;<i>Я учу немецкий <b>уже</b> два года.</i>;;
+von;от;dativ;<i>Das Buch ist <b>von</b> Thomas Mann.</i>;<i>Эта книга <b>Томаса Манна</b>.</i>;;
+zu;к;dativ;<i>Ich gehe <b>zum</b> Arzt.</i>;<i>Я иду <b>к</b> врачу.</i>;;
+dank;благодаря;dativ;<i><b>Dank</b> deiner Hilfe habe ich es geschafft.</i>;<i><b>Благодаря</b> твоей помощи я справился.</i>;;
+während;вовремя;genetiv;<i><b>Während</b> des Essens spricht man nicht.</i>;<i><b>Во время</b> еды не разговаривают.</i>;;
+aufgrund;по причине;genetiv;<i><b>Aufgrund</b> des Wetters bleiben wir zu Hause.</i>;<i><b>По причине</b> погоды мы остаемся дома.</i>;;
+infolge;вследствие;genetiv;<i><b>Infolge</b> des Unfalls gab es Stau.</i>;<i><b>Вследствие</b> аварии образовалась пробка.</i>;;
+wegen;из-за;genetiv;<i>Ich kann <b>wegen</b> des Regens nicht kommen.</i>;<i>Я не могу прийти <b>из-за</b> дождя.</i>;;
+trotz;несмотря на, вопреки;genetiv;<i><b>Trotz</b> des schlechten Wetters gehen wir spazieren.</i>;<i><b>Несмотря на</b> плохую погоду, мы идем гулять.</i>;;
+anstatt;взамен;genetiv;<i><b>Anstatt</b> des Kaffees trinke ich Tee.</i>;<i><b>Вместо</b> кофе я пью чай.</i>;statt;
+statt;вместо;genetiv;<i>Ich nehme Wasser <b>statt</b> Saft.</i>;<i>Я беру воду <b>вместо</b> сока.</i>;anstatt;
