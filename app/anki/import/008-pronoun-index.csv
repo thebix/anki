@@ -3,7 +3,7 @@
 #html:true
 #tags:pronoun местоимение
 #notetype:German
-#columns:Front;Back;Example;EampleTranslation
+#columns:Front;Back;Example;ExampleTranslation
 dieser, dieses, diese, diese;этот, это, эта, эти;<i>Ich mag <b>diesen</b> Film.</i>;<i>Мне нравится <b>этот</b> фильм.</i>;
 solcher, solches, solche, solche;такой, такое, такая, такие;<i>Ich habe noch nie <b>solches</b> Wetter erlebt.</i>;<i>Я еще никогда не переживал <b>такой</b> погоды.</i>;
 mancher, macnches, manche, manche;некоторый, некоторое, некоторая, некоторые;<i><b>Manche</b> Leute verstehen das nicht.</i>;<i><b>Некоторые</b> люди этого не понимают.</i>;

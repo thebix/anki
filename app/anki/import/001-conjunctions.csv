@@ -3,7 +3,7 @@
 #html:true
 #tags:conjunction союз
 #notetype:German
-#columns:Front;Back;Example;EampleTranslation;Notes;Synonym
+#columns:Front;Back;Example;ExampleTranslation;Notes;Synonym
 und;и, а;Peter liest ein Buch <b>und</b> Anna hört Musik.;Петер читает книгу <b>и</b> Анна слушает музыку.;сочинительный<br />не влияет на порядок слов;;
 aber;но, однако;Ich wollte gerade die Nachrichten hören, <b>aber</b> das Telefon klingelte.;Я как раз хотел послушать новости, <b>но</b> зазвонил телефон.;сочинительный<br />не влияет на порядок слов;;
 denn;так как, потому что;Ich bleibe heute zu Hause, <b>denn</b> ich bin müde.;Я останусь сегодня дома, <b>потому что</b> я устал.;сочинительный<br />не влияет на порядок слов;;
