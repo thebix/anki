@@ -1,0 +1,40 @@
+#Слова из книжки по подготовке к TELC B1
+#separator:Semicolon
+#html:true
+#tags:telc
+#notetype:German
+#columns:Front;Back;Example;ExampleTranslation;Notes;Synonym
+gefährlich;опасный;<i>Dieses Tier ist <b>gefährlich</b>.</i>;<i>Это животное <b>опасно</b>.</i>;;;
+die Kreuzung;перекресток;<i>Wir müssen an der nächsten <b>Kreuzung</b> links abbiegen.</i>;<i>Нам нужно на следующем <b>перекрестке</b> повернуть налево.</i>;;;
+eilig;спешный;<i>Ich habe es <b>eilig</b>.</i>;<i>Я <b>спешу</b>.</i>;;;
+der Rand;край;<i>Stellen Sie die Kiste an den <b>Rand</b> des Tisches.</i>;<i>Поставьте коробку на <b>край</b> стола.</i>;;;
+häufig;частый;<i>Wir gehen <b>häufig</b> ins Kino.</i>;<i>Мы <b>часто</b> ходим в кино.</i>;;;
+breit;широкий;<i>Die Straße ist sehr <b>breit</b>.</i>;<i>Эта улица очень <b>широкая</b>.</i>;;;
+verbieten;запрещать;<i>Das Gesetz <b>verbietet</b> das Rauchen in diesem Bereich.</i>;<i>Закон <b>запрещает</b> курение в этой зоне.</i>;;;
+der Dreck;грязь, пыль;<i>Überall auf dem Boden ist <b>Dreck</b>.</i>;<i>На полу повсюду <b>грязь</b>.</i>;;;
+befürchten;опасаться, бояться;<i>Wir <b>befürchten</b>, dass es morgen regnen wird.</i>;<i>Мы <b>опасаемся</b>, что завтра будет дождь.</i>;;;
+beruhigen;успокаивать;<i>Sie versuchte, das weinende Kind zu <b>beruhigen</b>.</i>;<i>Она пыталась <b>успокоить</b> плачущего ребенка.</i>;;;
+hoffentlich;надеюсь;<i><b>Hoffentlich</b> sehen wir uns bald wieder.</i>;<i><b>Надеюсь</b>, мы скоро снова увидимся.</i>;;;
+anfangen;начинать;<i>Wir wollen mit dem Projekt <b>anfangen</b>.</i>;<i>Мы хотим <b>начать</b> проект.</i>;;;
+mindestens;как минимум;<i>Du musst <b>mindestens</b> 18 sein, um ein Auto zu mieten.</i>;<i>Тебе должно быть <b>как минимум</b> 18, чтобы арендовать машину.</i>;;;
+höchstens;не более;<i>Die Fahrt dauert <b>höchstens</b> 20 Minuten.</i>;<i>Поездка займет <b>не более</b> 20 минут.</i>;;;
+ungefähr;примерно;<i>Es sind <b>ungefähr</b> 100 Leute auf der Party.</i>;<i>На вечеринке <b>примерно</b> 100 человек.</i>;;;
+tauschen;поменять;<i>Wir können unsere Plätze <b>tauschen</b>.</i>;<i>Мы можем <b>поменяться</b> местами.</i>;;;
+dafür;взамен;<i>Ich gebe dir mein Buch, und <b>dafür</b> gibst du mir dein Heft.</i>;<i>Я дам тебе мою книгу, а <b>взамен</b> ты дашь мне свою тетрадь.</i>;;;
+begleiten;сопровождать;<i>Ich werde dich zum Bahnhof <b>begleiten</b>.</i>;<i>Я <b>сопровожу</b> тебя до вокзала.</i>;;;
+der Anfänger;новичок;<i>Er ist ein <b>Anfänger</b> in diesem Spiel.</i>;<i>Он <b>новичок</b> в этой игре.</i>;;;
+fortgeschritten;продвинутый;<i>Sie ist eine <b>fortgeschrittene</b> Schülerin.</i>;<i>Она <b>продвинутая</b> ученица.</i>;;;
+ähnlich;подобный, схожий;<i>Diese beiden Modelle sind sehr <b>ähnlich</b>.</i>;<i>Эти две модели очень <b>схожи</b>.</i>;;;
+bewegen;двигать;<i>Er kann seinen Arm nicht <b>bewegen</b>.</i>;<i>Он не может <b>двигать</b> своей рукой.</i>;;;
+einladen;приглашать;<i>Sie hat mich zu ihrer Party <b>eingeladen</b>.</i>;<i>Она <b>пригласила</b> меня на свою вечеринку.</i>;;;
+der Anlass;повод, событие;<i>Was war der <b>Anlass</b> für diese Feier?</i>;<i>Какой был <b>повод</b> для этого праздника?</i>;;;
+beruflich;профессионально;<i>Sie ist <b>beruflich</b> viel unterwegs.</i>;<i>Она <b>профессионально</b> много путешествует.</i>;;;
+nutzen;использовать;<i>Er <b>nutzt</b> sein Wissen für die Arbeit.</i>;<i>Он <b>использует</b> свои знания для работы.</i>;;;
+einzukaufen;закупаться;<i>Wir müssen <b>einkaufen</b> gehen.</i>;<i>Нам нужно <b>сходить за покупками</b>.</i>;;;
+eigen;собственный, личный;<i>Er hat ein <b>eigenes</b> Auto.</i>;<i>У него есть <b>собственная</b> машина.</i>;;;
+verreisen;путешествовать;<i>Ich möchte in den Ferien <b>verreisen</b>.</i>;<i>Я хочу <b>путешествовать</b> во время каникул.</i>;;;
+geeingnet;подходящий (suitable);<i>Diese Schuhe sind für das Wandern nicht <b>geeignet</b>.</i>;<i>Эти туфли не <b>подходят</b> для походов.</i>;;;
+gehören;принадлежать, относиться;<i>Die Herde <b>gehört</b> dem Bauern.</i>;<i>Стадо <b>принадлежит</b> фермеру.</i>;;;
+hauptsächlich;в основном;<i>Ich esse <b>hauptsächlich</b> Gemüse.</i>;<i>Я ем <b>в основном</b> овощи.</i>;;;
+drinnen;внутри;<i>Bleiben wir <b>drinnen</b>, es regnet.</i>;<i>Давайте останемся <b>внутри</b>, идет дождь.</i>;;innerhalb;
+draußen;снаружи, вне;<i>Die Kinder spielen <b>draußen</b>.</i>;<i>Дети играют <b>снаружи</b>.</i>;;;

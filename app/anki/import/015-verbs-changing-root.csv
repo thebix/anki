@@ -3,17 +3,17 @@
 #html:true
 #tags:verb verb_changing_root
 #notetype:German [only forward]
-#columns:Front;Back;Context;ContextTranslation;Example;ExampleTranslation;
-essen;du isst<br />er isst<br><br /><div style='color:grey'>(есть, кушать)</div>;изменение корня;изменение корня;;;
-vergessen;du vergisst<br />er vergisst<br /><br /><div style='color:grey'>(забывать)</div>;изменение корня;изменение корня;;;
-lesen;du liest<br />er liest<br /><br /><div style='color:grey'>(читать)</div>;изменение корня;изменение корня;;;
-sprechen;du sprichst<br />er spricht<br /><br /><div style='color:grey'>(говорить)</div>;изменение корня;изменение корня;;;
-sehen;du siehst<br />er sieht<br /><br /><div style='color:grey'>(видеть)</div>;изменение корня;изменение корня;;;
-helfen;du hilfst<br />er hilft<br /><br /><div style='color:grey'>(помогать)</div>;изменение корня;изменение корня;;;
-nehmen;du nimmst<br />er nimmt<br /><br /><div style='color:grey'>(брать)</div>;изменение корня;изменение корня;;;
-geben;du gibst<br />er gibt<br /><br /><div style='color:grey'>(дать)</div>;изменение корня;изменение корня;;;
-empfehlen;du empfiehlst<br />er empfiehlt<br /><br /><div style='color:grey'>(рекомендовать, советовать)</div>;изменение корня;изменение корня;;;
-befehlen;du befiehlst<br />er befiehlt<br /><br /><div style='color:grey'>(приказывать)</div>;изменение корня;изменение корня;;;
-fahren;ich fahre<br />du fährst<br />er fährt<br />wir fahren<br /><br /><div style='color:grey'>(ехать)</div>;изменение корня;изменение корня;;;
-laufen;ich laufe<br />du läufst<br />er läuft<br />wir laufen<br /><br /><div style='color:grey'>(бежать)</div>;изменение корня;изменение корня;;;
-stoßen;ich stroße<br />du strößt<br />er strößt<br />wir stroßen<br /><br /><div style='color:grey'>(толкать, ударять)</div>;изменение корня;изменение корня;;;
+#columns:Front;Back;Context;ContextTranslation;Example;ExampleTranslation;Notes;
+essen;du isst<br />er isst<br><br /><div style='color:grey'>(есть, кушать)</div>;изменение корня;изменение корня;;;;
+vergessen;du vergisst<br />er vergisst<br /><br /><div style='color:grey'>(забывать)</div>;изменение корня;изменение корня;;;;
+lesen;du liest<br />er liest<br /><br /><div style='color:grey'>(читать)</div>;изменение корня;изменение корня;;;;
+sprechen;du sprichst<br />er spricht<br /><br /><div style='color:grey'>(говорить)</div>;изменение корня;изменение корня;;;;
+sehen;du siehst<br />er sieht<br /><br /><div style='color:grey'>(видеть)</div>;изменение корня;изменение корня;;;;
+helfen;du hilfst<br />er hilft<br /><br /><div style='color:grey'>(помогать)</div>;изменение корня;изменение корня;;;;
+nehmen;du nimmst<br />er nimmt<br /><br /><div style='color:grey'>(брать)</div>;изменение корня;изменение корня;;;;
+geben;du gibst<br />er gibt<br /><br /><div style='color:grey'>(дать)</div>;изменение корня;изменение корня;;;;
+empfehlen;du empfiehlst<br />er empfiehlt<br /><br /><div style='color:grey'>(рекомендовать, советовать)</div>;изменение корня;изменение корня;;;;
+befehlen;du befiehlst<br />er befiehlt<br /><br /><div style='color:grey'>(приказывать)</div>;изменение корня;изменение корня;;;;
+fahren;ich fahre<br />du fährst<br />er fährt<br />wir fahren<br /><br /><div style='color:grey'>(ехать)</div>;изменение корня;изменение корня;;;;
+laufen;ich laufe<br />du läufst<br />er läuft<br />wir laufen<br /><br /><div style='color:grey'>(бежать)</div>;изменение корня;изменение корня;;;;
+stoßen;ich stroße<br />du strößt<br />er strößt<br />wir stroßen<br /><br /><div style='color:grey'>(толкать, ударять)</div>;изменение корня;изменение корня;;;;

@@ -6,10 +6,10 @@
 #columns:Front;Back;Example;ExampleTranslation;Notes;Synonym
 weshalb;зачем;<i>Ich verstehe nicht, <b>weshalb</b> er das getan hat.</i>;<i>Я не понимаю, <b>зачем</b> он это сделал.</i>;;;
 wertvoll;ценный;<i>Das Museum stellt viele <b>wertvolle</b> Gemälde aus.</i>;<i>Музей выставляет много <b>ценных</b> картин.</i>;;;
-eigentlich;наконец;<i>Was wolltest du <b>eigentlich</b> sagen?</i>;<i>Что ты <b>вообще-то</b> хотел сказать?</i>;;;
+eigentlich;наконец, на самом деле;<i>Was wolltest du <b>eigentlich</b> sagen?</i>;<i>Что ты <b>вообще-то</b> хотел сказать?</i>;;;
 klappen;получаться;<i>Ich hoffe, dass alles <b>klappt</b>.</i>;<i>Я надеюсь, что все <b>получится</b>.</i>;;;
 anstrengend;утомительный, напряженный;<i>Der Job ist sehr <b>anstrengend</b>.</i>;<i>Эта работа очень <b>утомительная</b>.</i>;;;
-innerhalb;внутри;<i>Sie müssen <b>innerhalb</b> von 10 Minuten hier sein.</i>;<i>Вы должны быть здесь <b>в течение</b> 10 минут.</i>;;;
+innerhalb;внутри;<i>Sie müssen <b>innerhalb</b> von 10 Minuten hier sein.</i>;<i>Вы должны быть здесь <b>в течение</b> 10 минут.</i>;;drinnen;
 die Ablehnung;отказ;<i>Ich habe eine <b>Ablehnung</b> für meinen Antrag bekommen.</i>;<i>Я получил <b>отказ</b> на мою заявку.</i>;;;
 die Herstellung;производство;<i><b>Die Herstellung</b> von Autos ist sehr komplex.</i>;<i><b>Производство</b> автомобилей очень сложное.</i>;;;
 herstellen;производить;<i>Dieses Unternehmen kann Tische und Stühle <b>herstellen</b>.</i>;<i>Эта компания может <b>производить</b> столы и стулья.</i>;;;
@@ -28,7 +28,7 @@ teilen;делить;<i>Wir <b>teilen</b> die Pizza in vier Stücke.</i>;<i>Мы 
 mitteilen;поделиться (информацией);<i>Er hat mir eine wichtige Information <b>mitgeteilt</b>.</i>;<i>Он <b>сообщил</b> мне важную информацию.</i>;;;
 bügelt;гладить;<i>Mein Vater <b>bügelt</b> immer seine Hemden selbst.</i>;<i>Мой отец всегда сам <b>гладит</b> свои рубашки.</i>;;;
 gießen;поливать;<i>Vergiss nicht, die Blumen zu <b>gießen</b>.</i>;<i>Не забудь <b>поливать</b> цветы.</i>;;;
-aufhellen;развеселить;<i>Die Sonne <b>hellt</b> den Himmel <b>auf</b>.</i>;<i>Солнце <b>осветляет</b> небо.</i>;;;
+aufhellen;осветлять;<i>Die Sonne <b>hellt</b> den Himmel <b>auf</b>.</i>;<i>Солнце <b>осветляет</b> небо.</i>;;;
 berufstätig;трудоустроенный;<i>Meine Mutter ist <b>berufstätig</b>.</i>;<i>Моя мама <b>работает</b> (трудоустроенная).</i>;;;
 aussehen;выглядеть;<i>Du <b>siehst</b> heute gut <b>aus</b>.</i>;<i>Ты сегодня хорошо <b>выглядишь</b>.</i>;;;
 abhängen <b>von</b> + <i>Dat</i>;зависеть от чего-то;<i>Der Erfolg <b>hängt von</b> dir <b>ab</b>.</i>;<i>Успех <b>зависит от</b> тебя.</i>;;;
