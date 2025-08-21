@@ -1,0 +1,17 @@
+#Фразы для, в основном, диалога и письма при подготовки к TELC B1
+#separator:Semicolon
+#html:true
+#tags:daria redelmittel
+#notetype:German:Expression
+#columns:Front;Back;Example;ExampleTranslation;Notes;Context;ContextTranslation
+Liebe [<i>Name</i>], <br />vielen Dank für deine E-mail. Ich habe mich sehr darüber gefreut.;Дорогая [<i>Name</i>], <br />большое спасибо за твое электронное письмо. Я был очень рад ему.;;;;E-Mail-Anfang (informell);Начало электронного письма (неформально);
+Liebe Herr [<i>Name</i>], <br />wie schön, dass Sie mir schreiben!;Уважаемый господин [<i>Name</i>], <br />как замечательно, что Вы мне пишете!;;;;E-Mail-Anfang (formell);Начало электронного письма (формально);
+Toll, das ...;Здорово, что ...;<b>Toll, dass</b> du auch kommst!<br /><b>Toll, dass</b> wir uns wiedersehen.<br /><b>Toll, dass</b> die Reise so gut geklappt hat.;<b>Здорово, что</b> ты тоже придешь!<br /><b>Здорово, что</b> мы снова увидимся.<br /><b>Здорово, что</b> поездка так хорошо прошла.;;Freude ausdrücken;Выражение радости;
+Schade, dass ...;Жаль, что ...;<b>Schade, dass</b> du nicht dabei sein kannst.<br /><b>Schade, dass</b> wir uns verpasst haben.<br /><b>Schade, dass</b> das Wetter so schlecht ist.;<b>Жаль, что</b> ты не можешь быть с нами.<br /><b>Жаль, что</b> мы разминулись.<br /><b>Жаль, что</b> погода такая плохая.;;Bedauern ausdrücken;Выражение сожаления;
+Das freut mich, weil ...;Это меня радует, потому что ...;<b>Das freut mich, weil</b> ich mich schon sehr darauf gefreut habe.<br /><b>Das freut mich, weil</b> wir uns lange nicht gesehen haben.<br /><b>Das freut mich, weil</b> es ein guter Grund zum Feiern ist.;<b>Это меня радует, потому что</b> я уже очень ждал этого.<br /><b>Это меня радует, потому что</b> мы давно не виделись.<br /><b>Это меня радует, потому что</b> это хороший повод для праздника.;;Freude begründen;Обоснование радости;
+Bitte schreib mir bald zurück!;Пожалуйста, напиши мне скоро в ответ!;;;;E-Mail-Abschluss (informell);Завершение письма (неформально);
+Ich warte auf deine/Ihre Antwort.;Я жду твоего/Вашего ответа.;;;;E-Mail-Abschluss;Завершение письма;
+Schreiben Sie mir, wenn ...;Напишите мне, когда ...;<b>Schreiben Sie mir, wenn</b> Sie Zeit haben.<br /><b>Schreiben Sie mir, когда</b> das Problem gelöst ist.<br /><b>Schreiben Sie mir, когда</b> Sie Neuigkeiten haben.;<b>Напишите мне, когда</b> у Вас будет время.<br /><b>Напишите мне, когда</b> проблема будет решена.<br /><b>Напишите мне, когда</b> у Вас будут новости.;;Wunsch ausdrücken;Выражение желания;
+Viele Grüße;С наилучшими пожеланиями;;;;E-Mail-Abschluss (informell);Завершение письма (неформально);
+Ich bin in Murmansk geboren;Я родился в Мурманске.;;;;Über Herkunft sprechen;Рассказ о происхождении;
+Als ich ein Kind war, [<i>Verb</i>];Когда я был ребенком, [<i>глагол</i>];<b>Als ich ein Kind war</b>, bin ich oft im Park spielen gegangen.<br /><b>Als ich ein Kind war</b>, habe ich gern Comics gelesen.<br /><b>Als ich ein Kind war</b>, sind wir oft an die Ostsee gefahren.;<b>Когда я был ребенком</b>, я часто ходил играть в парк.<br /><b>Когда я был ребенком</b>, я с удовольствием читал комиксы.<br /><b>Когда я был ребенком</b>, мы часто ездили на Балтийское море.;;Über die Vergangenheit sprechen;Рассказ о прошлом;

@@ -11,7 +11,7 @@ Schade, dass ...
 Das freut mich, weil ...
 
 Bitte schreib mir bald zurück!
-Ich warte auf deine Antwort.
+Ich warte auf deine/Ihre Antwort.
 Schreiben Si mir, wenn ...
 
 Viele Gruße
@@ -20,5 +20,5 @@ Pavel
 
 ## Что можно использовать в диалоге
 
-Ich warte auf deine/ihre Antwort;я жду твоего ответа;Ich <b>warte auf deine Antwort</b>. ;Я <b>жду твоего ответа</b>.;;;
 Ich bin in Murmanks geboren
+Als ich ien Kind war, verb
