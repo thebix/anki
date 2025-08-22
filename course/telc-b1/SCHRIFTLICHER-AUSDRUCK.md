@@ -2,7 +2,30 @@
 
 Письменная часть (написание письма)
 
-## 2025 08 20 Telc Book - Modeltest 2
+## 2025 08 22 Telc Book - Modeltest 2
+
+Lieber Mario,
+
+danke für deine E-mail! Ich habe mich sehr gefreut!
+
+Toll, dass du deine Familie besucht hat! Ich weiß, wie wenig Zeit du hast.
+
+Als ein Kind ich war, habe ich oft im Zoo mit meiner Eltern gegangen.
+Wenn ich jetz da gehe, erinnert es mich an meine Kindheit.
+
+Meine Familie sehe ich nicht so oft, weil sie Ausland leben. Letze mal habe ich im Jaunar meine Eltern gesehen.
+
+Du weißt wie mag ich Partys! Diese woche ht main Freund Geburtstag, deshalb haben wir nach dem Nord für eine Party gefahren.
+
+Ich möchte du bald besuchen. Wie findest du folgende Idee: ich komme mexte Wochenende und wir fahren im Wald?
+
+Schreib mir bald bitte.
+
+Viele Grüße
+
+Pavel
+
+## 2025 08 20 Telc Book - Modeltest 3
 
 Lieber Gabriel,
 
