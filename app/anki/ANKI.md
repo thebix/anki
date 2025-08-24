@@ -1,7 +1,8 @@
 # Anki Flashcards
 
-- [History](./HISTORY.md)
-- [ai/Prompts](./ai/PROMPTS.md)
+- [History](./HISTORY.md) - история
+- [ai/Prompts](./ai/PROMPTS.md) - промпты
+- [config](./config/CONFIG.md) - конфигурация приложения
 
 ## Соглашения
 

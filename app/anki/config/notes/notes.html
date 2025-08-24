@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Border Example</title>
+    <style>
+        .meta-card {
+            /* This is the class for our div */
+            border: 1px solid #333;
+            /* 1px solid dark gray border */
+            padding: 20px;
+            /* Add some space inside the div */
+            margin: 20px;
+            /* Add some space around the div */
+            background-color: #f0f0f0;
+            /* Light gray background */
+            width: 600px;
+        }
+
+        .card {
+            font-family: arial;
+            font-size: 20px;
+            text-align: center;
+            color: black;
+            background-color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>German</h1>
+    <table>
+        <tr>
+            <th colspan="2">
+                <h2>Forward</h2>
+            </th>
+            <th>
+                <h3>Fields</h3>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                <h3>Front</h3>
+            </th>
+            <th>
+                <h3>Back</h3>
+            </th>
+            <td rowspan="5">
+                <ul>
+                    <li>Front</li>
+                    <li>Back</li>
+                    <li>Example</li>
+                    <li>ExampleTranslation</li>
+                    <li>Notes</li>
+                    <li>Form2</li>
+                    <li>Form3</li>
+                    <li>Synonym</li>
+                    <li>Context</li>
+                    <li>ContextTranslation</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="meta-card">
+                    <div class="card">
+                        <div style='font-size: 34px;'>
+                            {{Front}}{{#Form2}} - {{Form2}}{{/Form2}}{{#Form3}} - {{Form3}}{{/Form3}}
+                        </div>
+
+                        <br />
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div class="meta-card">
+                    <div class="card">
+                        {{FrontSide}}
+
+                        <div style='font-size: 20px;color:grey'>
+                            {{Synonym}}
+                        </div>
+
+
+                        <hr id=answer>
+
+                        <div style='font-size: 24px;'>
+                            {{Back}}
+                        </div>
+
+                        <br /><br />
+
+                        <div style='font-family: "Arial"; font-size: 14px;'><i>{{Example}}</i></div>
+                        <div style='font-family: "Arial"; font-size: 14px;color:grey'><i>{{ExampleTranslation}}</i></div>
+
+                        <br />
+
+                        <div style='font-family: "Arial"; font-size: 12px;'>{{Notes}}</div>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <th colspan="2">
+                <h2>Backward</h2>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                <h3>Front</h3>
+            </th>
+            <th>
+                <h3>Back</h3>
+            </th>
+        </tr>
+        <tr>
+            <td>
+                <div class="meta-card">
+                    <div class="card">
+                        <div style='font-size: 34px;'>
+
+                            {{Back}}
+
+                        </div>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div class="meta-card">
+                    <div class="card">
+                        {{FrontSide}}
+
+                        <hr id=answer>
+
+                        <div style='font-size: 24px;'>
+                            {{Front}}{{#Form2}} - {{Form2}}{{/Form2}}{{#Form3}} - {{Form3}}{{/Form3}}
+                        </div>
+
+                        <div style='font-size: 20px;color:grey'>
+                            {{Synonym}}
+                        </div>
+
+                        <br /><br />
+
+                        <div style='font-family: "Arial"; font-size: 14px;'><i>{{Example}}</i></div>
+                        <div style='font-family: "Arial"; font-size: 14px;color:grey'><i>{{ExampleTranslation}}</i></div>
+
+                        <br />
+
+                        <div style='font-family: "Arial"; font-size: 12px;'>{{Notes}}</div>
+                    </div>
+                </div>
+            </td>
+        </tr>
+    </table>
+    <h1>German [only forward]</h1>
+    <table>
+        <tr>
+            <th colspan="2">
+                <h2>Forward</h2>
+            </th>
+            <th>
+                <h3>Fields</h3>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                <h3>Front</h3>
+            </th>
+            <th>
+                <h3>Back</h3>
+            </th>
+            <td rowspan="2">
+                <ul>
+                    <li>Front</li>
+                    <li>Back</li>
+                    <li>Example</li>
+                    <li>ExampleTranslation</li>
+                    <li>Notes</li>
+                    <li>Context</li>
+                    <li>ContextTranslation</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="meta-card">
+                    <div class="card">
+                        <div style='font-size: 34px;'>
+                            {{Front}}
+                        </div>
+
+                        <br />
+
+                        <div style='font-family: "Arial"; font-size: 20px;color:grey'>{{Context}}</div>
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div class="meta-card">
+                    <div class="card">
+                        {{FrontSide}}
+
+                        <hr id=answer>
+
+                        <div style='font-size: 24px;'>
+                            {{Back}}
+                        </div>
+
+                        <br />
+
+                        <div style='font-family: "Arial"; font-size: 20px;color:grey'>{{ContextTranslation}}</div>
+                        <div style='font-family: "Arial"; font-size: 14px;'><i>{{Example}}</i></div>
+                        <div style='font-family: "Arial"; font-size: 14px;color:grey'><i>{{ExampleTranslation}}</i></div>
+
+                        <br />
+
+                        <div style='font-family: "Arial"; font-size: 12px;'>{{Notes}}</div>
+                    </div>
+                </div>
+            </td>
+        </tr>
+    </table>
+    <h1>German:Expression</h1>
+    <table>
+        <tr>
+            <th colspan="2">
+                <h2>Forward</h2>
+            </th>
+            <th>
+                <h3>Fields</h3>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                <h3>Front</h3>
+            </th>
+            <th>
+                <h3>Back</h3>
+            </th>
+            <td rowspan="5">
+                <ul>
+                    <li>Front</li>
+                    <li>Back</li>
+                    <li>Context</li>
+                    <li>ContextTranslation</li>
+                    <li>Example</li>
+                    <li>ExampleTranslation</li>
+                    <li>Notes</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="meta-card">
+                    <div class="card">
+                        <div style='font-size: 34px;'>
+                            {{Front}}
+                        </div>
+
+                        <br />
+
+                        <div style='font-size: 20px;'>
+                            {{Context}}
+                        </div>
+
+                        <br />
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div class="meta-card">
+                    <div class="card">
+                        {{FrontSide}}
+
+                        <div style='font-size: 20px;color:grey'>
+                        </div>
+
+                        <hr id=answer>
+
+                        <div style='font-size: 24px;'>
+                            {{Back}}
+                        </div>
+
+                        <br />
+
+                        <div style='font-size: 20px;'>
+                            {{ContextTranslation}}
+                        </div>
+
+                        <br /><br />
+
+                        <div style='font-family: "Arial"; font-size: 14px;'><i>{{Example}}</i></div>
+                        <div style='font-family: "Arial"; font-size: 14px;color:grey'><i>{{ExampleTranslation}}</i></div>
+
+                        <br />
+
+                        <div style='font-family: "Arial"; font-size: 12px;'>{{Notes}}</div>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <th colspan="2">
+                <h2>Backward</h2>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                <h3>Front</h3>
+            </th>
+            <th>
+                <h3>Back</h3>
+            </th>
+        </tr>
+        <tr>
+            <td>
+                <div class="meta-card">
+                    <div class="card">
+                        <div style='font-size: 34px;'>
+                            {{Back}}
+                        </div>
+
+                        <br />
+
+                        <div style='font-size: 20px;'>
+                            {{ContextTranslation}}
+                        </div>
+
+                        <br />
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div class="meta-card">
+                    <div class="card">
+                        {{FrontSide}}
+
+                        <div style='font-size: 20px;color:grey'>
+                        </div>
+
+                        <hr id=answer>
+
+                        <div style='font-size: 24px;'>
+                            {{Front}}
+
+                            <br />
+                            <br />
+
+                            <div style='font-size: 20px;'>
+                                {{Context}}
+                            </div>
+                        </div>
+
+                        <br /><br />
+
+                        <div style='font-family: "Arial"; font-size: 14px;'><i>{{Example}}</i></div>
+                        <div style='font-family: "Arial"; font-size: 14px;color:grey'><i>{{ExampleTranslation}}</i></div>
+
+                        <br />
+
+                        <div style='font-family: "Arial"; font-size: 12px;'>{{Notes}}</div>
+                    </div>
+                </div>
+            </td>
+        </tr>
+    </table>
+</body>
