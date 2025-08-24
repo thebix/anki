@@ -3,9 +3,12 @@
 Подготовка к экзамену B1 Telc
 
 - [Schriflischer Ausdruck](./SCHRIFTLICHER-AUSDRUCK.md) - написание письма
+- [b1-book/001-Ubungsprufungen-B1-TELC.pdf](./b1-book/001-Ubungsprufungen-B1-TELC.pdf) - книга с 15 приерами экзамена, которую мне Саша дал
+  - [Hörverstehen](https://www.youtube.com/watch?v=YbWt73LhTmQ&list=PLrsXRzvIseAe2EAEL899clfXrSAylGg52) - материалы для Hörverstehen
 
 ## TODO
 
+- 2025 08 24 Redemitel для говорения Teil 2 и Teil 3
 - ~~2025 08 23 Слова из Modeltest 2 (первое задание), письма (задание 2 и 4). ~~
 - 2025 08 23 Повторить модальные глаголы (и их прошедшее время)
 - ~~2025 08 21 Внести предложения из [](../../resource/sentence/b1-telc/TEMPLATES.md) в Anki и учить их~~
