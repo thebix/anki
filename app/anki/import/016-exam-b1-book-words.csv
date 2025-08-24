@@ -3,7 +3,7 @@
 #html:true
 #tags:telc
 #notetype:German
-#columns:Front;Back;Example;ExampleTranslation;Notes;Synonym
+#columns:Front;Back;Example;ExampleTranslation;Notes;Synonym;Context;ContextTranslation
 gefährlich;опасный;<i>Dieses Tier ist <b>gefährlich</b>.</i>;<i>Это животное <b>опасно</b>.</i>;;;
 die Kreuzung;перекресток;<i>Wir müssen an der nächsten <b>Kreuzung</b> links abbiegen.</i>;<i>Нам нужно на следующем <b>перекрестке</b> повернуть налево.</i>;;;
 eilig;спешный;<i>Ich habe es <b>eilig</b>.</i>;<i>Я <b>спешу</b>.</i>;;;
@@ -20,7 +20,7 @@ mindestens;как минимум;<i>Du musst <b>mindestens</b> 18 sein, um ein A
 höchstens;не более;<i>Die Fahrt dauert <b>höchstens</b> 20 Minuten.</i>;<i>Поездка займет <b>не более</b> 20 минут.</i>;;;
 ungefähr;примерно;<i>Es sind <b>ungefähr</b> 100 Leute auf der Party.</i>;<i>На вечеринке <b>примерно</b> 100 человек.</i>;;;
 tauschen;поменять;<i>Wir können unsere Plätze <b>tauschen</b>.</i>;<i>Мы можем <b>поменяться</b> местами.</i>;;;
-dafür;взамен;<i>Ich gebe dir mein Buch, und <b>dafür</b> gibst du mir dein Heft.</i>;<i>Я дам тебе мою книгу, а <b>взамен</b> ты дашь мне свою тетрадь.</i>;;;
+dafür;взамен этого, за это(то);<i>Ich gebe dir mein Buch, und <b>dafür</b> gibst du mir dein Heft.<br />Wir brauchen einen Plan. Hast du eine Idee <b>dafür</b>?<br />Ich bin <b>dafür</b>, das Projekt zu starten.</i>;<i>Я дам тебе мою книгу, а <b>взамен</b> ты дашь мне свою тетрадь.<br />ам нужен план. У тебя есть идея <b>для этого</b>?<br />Я <b>за то</b>, чтобы запустить этот проект.</i>;используется, когда мы говорим о чем-то, что было упомянуто ранее, или чтобы выразить причину, цель или согласие;;;
 begleiten;сопровождать;<i>Ich werde dich zum Bahnhof <b>begleiten</b>.</i>;<i>Я <b>сопровожу</b> тебя до вокзала.</i>;;;
 der Anfänger;новичок;<i>Er ist ein <b>Anfänger</b> in diesem Spiel.</i>;<i>Он <b>новичок</b> в этой игре.</i>;;;
 fortgeschritten;продвинутый;<i>Sie ist eine <b>fortgeschrittene</b> Schülerin.</i>;<i>Она <b>продвинутая</b> ученица.</i>;;;

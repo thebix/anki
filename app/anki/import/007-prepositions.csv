@@ -33,7 +33,7 @@ seit;с (времени);dativ;<i>Ich lerne Deutsch <b>seit</b> zwei Jahren.</i>
 von;от;dativ;<i>Das Buch ist <b>von</b> Thomas Mann.</i>;<i>Эта книга <b>Томаса Манна</b>.</i>;;
 zu;к;dativ;<i>Ich gehe <b>zum</b> Arzt.</i>;<i>Я иду <b>к</b> врачу.</i>;;
 dank;благодаря;dativ;<i><b>Dank</b> deiner Hilfe habe ich es geschafft.</i>;<i><b>Благодаря</b> твоей помощи я справился.</i>;;
-während;вовремя;genetiv;<i><b>Während</b> des Essens spricht man nicht.</i>;<i><b>Во время</b> еды не разговаривают.</i>;;
+während;во время;genetiv;<i><b>Während</b> des Essens spricht man nicht.</i>;<i><b>Во время</b> еды не разговаривают.</i>;;
 aufgrund;по причине;genetiv;<i><b>Aufgrund</b> des Wetters bleiben wir zu Hause.</i>;<i><b>По причине</b> погоды мы остаемся дома.</i>;;
 infolge;вследствие;genetiv;<i><b>Infolge</b> des Unfalls gab es Stau.</i>;<i><b>Вследствие</b> аварии образовалась пробка.</i>;;
 wegen;из-за;genetiv;<i>Ich kann <b>wegen</b> des Regens nicht kommen.</i>;<i>Я не могу прийти <b>из-за</b> дождя.</i>;;
