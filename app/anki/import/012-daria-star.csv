@@ -3,13 +3,13 @@
 #html:true
 #tags:daria даша
 #notetype:German
-#columns:Front;Back;Example;ExampleTranslation;Notes;Synonym
+#columns:Front;Back;Example;ExampleTranslation;Notes;Synonym;Context;ContextTranslation
 weshalb;зачем;<i>Ich verstehe nicht, <b>weshalb</b> er das getan hat.</i>;<i>Я не понимаю, <b>зачем</b> он это сделал.</i>;;;
 wertvoll;ценный;<i>Das Museum stellt viele <b>wertvolle</b> Gemälde aus.</i>;<i>Музей выставляет много <b>ценных</b> картин.</i>;;;
 eigentlich;наконец, на самом деле;<i>Was wolltest du <b>eigentlich</b> sagen?</i>;<i>Что ты <b>вообще-то</b> хотел сказать?</i>;;;
 klappen;получаться;<i>Ich hoffe, dass alles <b>klappt</b>.</i>;<i>Я надеюсь, что все <b>получится</b>.</i>;;;
 anstrengend;утомительный, напряженный;<i>Der Job ist sehr <b>anstrengend</b>.</i>;<i>Эта работа очень <b>утомительная</b>.</i>;;;
-innerhalb;внутри;<i>Sie müssen <b>innerhalb</b> von 10 Minuten hier sein.</i>;<i>Вы должны быть здесь <b>в течение</b> 10 минут.</i>;;drinnen;
+innerhalb;внутри(пространство), в течение (времени);<i>Sie müssen <b>innerhalb</b> von 10 Minuten hier sein.<br />Das Schloss liegt <b>innerhalb</b> der Stadtmauern.</i>;<i>Вы должны быть здесь <b>в течение</b> 10 минут.</i><br />Замок находится <b>внутри</b> городских стен.;;drinnen;
 die Ablehnung;отказ;<i>Ich habe eine <b>Ablehnung</b> für meinen Antrag bekommen.</i>;<i>Я получил <b>отказ</b> на мою заявку.</i>;;;
 die Herstellung;производство;<i><b>Die Herstellung</b> von Autos ist sehr komplex.</i>;<i><b>Производство</b> автомобилей очень сложное.</i>;;;
 herstellen;производить;<i>Dieses Unternehmen kann Tische und Stühle <b>herstellen</b>.</i>;<i>Эта компания может <b>производить</b> столы и стулья.</i>;;;
@@ -55,7 +55,7 @@ sich unterhalten;общаться, разговаривать;Wir <b>unterhalten
 berichten;сообщать;Die Zeitung <b>berichtet</b> über den Unfall.;Газета <b>сообщает</b> об аварии.;;;
 die Zeitschrift;журнал;Ich lese gerne diese <b>Zeitschrift</b>.;Мне нравится читать этот <b>журнал</b>.;;;
 ausschlafen;выспаться;Am Wochenende möchte ich endlich <b>ausschlafen</b>.;В выходные я хочу наконец-то <b>выспаться</b>.;;;
-besichtigen;посещать;Wir <b>besichtigen</b> heute das Museum.;Сегодня мы <b>посетим</b> музей.;;;
+besichtigen;осматривать (как турист);Wir <b>besichtigen</b> heute das Museum.;Сегодня мы <b>посетим</b> музей.;;;;рассматриваешь место как турист или посетитель, чтобы получить о нем представление;
 der Abschied;прощание;Der <b>Abschied</b> von der Familie war sehr schwer.;<b>Прощание</b> с семьей было очень тяжелым.;;;
 einerseits, andererseits;с одной стороны, с другой стороны;<b>Einerseits</b> ist es schwer, aber <b>andererseits</b> macht es Spaß.;<b>С одной стороны</b> это трудно, но <b>с другой стороны</b> это приносит удовольствие.;;;
 bevorzugen;предпочитать (prefer);Ich <b>bevorzuge</b> Tee statt Kaffee.;Я <b>предпочитаю</b> чай вместо кофе.;;;
